@@ -1,5 +1,6 @@
 This was my journey lerning how to use react, It was new to me and i didnt know how at first but i manages to learn how to use react as well as how to install  the application.
-![image](https://user-images.githubusercontent.com/84593974/199338226-b86be2f5-9930-47a7-bb4c-c54de3b40b57.png)
+
+![Screenshot (281)](https://user-images.githubusercontent.com/84593974/199338684-67d4d34a-3a58-4022-874b-c2afbc9a175b.png)
 
 
 
