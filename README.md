@@ -1,5 +1,6 @@
 This was my journey lerning how to use react, It was new to me and i didnt know how at first but i manages to learn how to use react as well as how to install  the application.
-https://github.com/underdogs180![React](https://user-images.githubusercontent.com/84593974/199337549-d5b5fadf-3507-470c-907b-c40b5714f7dc.png)
+![image](https://user-images.githubusercontent.com/84593974/199338226-b86be2f5-9930-47a7-bb4c-c54de3b40b57.png)
+
 
 
 # Getting Started with Create React App
@@ -23,7 +24,8 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `npm run build`![Screenshot](https://user-images.githubusercontent.com/84593974/199338189-0d48be5f-a144-4f7e-abdd-395a08b8f038.png)
+
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
