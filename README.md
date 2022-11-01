@@ -1,3 +1,6 @@
+This was my journey lerning how to use react, It was new to me and i didnt know how at first but i manages to learn how to use react as well as how to install  the application.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
